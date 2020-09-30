@@ -1,2 +1,2 @@
 # orion_constellation
-Visualizing the Orion Constellation
+Visualising the Orion Constellation
